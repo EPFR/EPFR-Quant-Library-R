@@ -1,11 +1,11 @@
 Package: EPFR.r
 Type: Package
-Title: What the Package Does (Title Case)
+Title: EPFR Quantitative Research Environment - lite
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: person("Vikram", "Srimurthy", "K.", "Vikram.C.Srimurthy@epfrglobal.com", role = c("aut", "cre"))
+Maintainer: person("Olivia", "Blaszkowski", "olivia.blaszkowski@informa.com")
+Description: This package was created to help clients visualize and better understand EPFR's proof of concept Quantitaive strategies,
+    by providing a readily available enviorment with tools to start. 
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
