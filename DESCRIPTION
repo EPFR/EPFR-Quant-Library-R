@@ -9,3 +9,4 @@ Description: This package was created to help clients visualize and better under
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 7.1.2
