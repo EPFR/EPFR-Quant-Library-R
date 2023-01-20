@@ -2,11 +2,9 @@ Package: EPFR.r
 Type: Package
 Title: EPFR Quantitative Research Environment - lite
 Version: 0.1.0
-Author: person("Vikram", "Srimurthy", "K.", "Vikram.C.Srimurthy@epfrglobal.com", role = c("aut", "cre"))
-Maintainer: person("Olivia", "Blaszkowski", "olivia.blaszkowski@informa.com")
+Authors@R: person("Vikram", "Srimurthy", "K.", "Vikram.C.Srimurthy@epfrglobal.com", role = c("aut", "cre"))
 Description: This package was created to help clients visualize and better understand EPFR's proof of concept Quantitaive strategies,
     by providing a readily available enviorment with tools to start. 
-License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.2
