@@ -1887,7 +1887,14 @@ dir.make <- function (x)
 
 dir.parameters <- function (x)
 {
-  paste(fcn.dir(), "New Model Concept\\General", x, sep = "\\")
+
+  if (fcn.dir() != "<EXTERNAL>") {
+    paste(fcn.dir(), "New Model Concept\\General", x, sep = "\\")
+  } else {
+    paste("C:\\EPFR", x, sep = "\\")
+  }
+
+
 }
 
 #' dir.parent
